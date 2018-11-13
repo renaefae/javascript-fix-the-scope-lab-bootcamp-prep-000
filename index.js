@@ -17,7 +17,7 @@ function add2(n) {
   n = 5;
   return n + two;
 }
-console.log(add2()); 
+console.log(add2());
 
 var funkyFunction = function() {
   return function() {
