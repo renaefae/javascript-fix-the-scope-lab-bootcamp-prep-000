@@ -1,7 +1,8 @@
  animal = 'dog' ; 
 function myAnimal() {
   return animal;
-} 
+}
+console.log(myAnimal()); 
 
 function yourAnimal() {
   // How can we make sure that this function
